@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelover1226&theme=onedark" alt="GitHub Streak" />
 </p>
 
-<p style="display: flex; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center>
+  <a float: left; href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=codelover1226&show_icons=true&theme=transparent" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a float: right; href="https://github.com/anuraghazra/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=codelover1226&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </p>
