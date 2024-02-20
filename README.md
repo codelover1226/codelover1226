@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Connect with me:
 
 <a href="https://discord.com/users/jyah1226_60755" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="" height="30" width="40" /></a>
-<a href=https://t.me/jayhayasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://t.me/jayhayasi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="https://join.skype.com/invite/ukeEJ9tkwibb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="" height="30" width="40" /></a>
 <a href="mailto:wmeng0103@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
 
