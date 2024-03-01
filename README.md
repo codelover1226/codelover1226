@@ -32,5 +32,4 @@ You can click the Preview link to take a look at your changes.
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=codelover1226&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 📫 Feel free to reach out if you want to collaborate or discuss anything!
