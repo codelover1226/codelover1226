@@ -33,3 +33,5 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 📫 Feel free to reach out if you want to collaborate or discuss anything!
+
+![Snake Game](https://github.com/codelover1226/codelover1226/raw/output/dist/github-contribution-grid-snake.svg)
