@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codelover1226&theme=onedark" alt="GitHub Streak" />
 </p>
 
-<p align="center>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=codelover1226&show_icons=true&theme=transparent" />
   </a>
