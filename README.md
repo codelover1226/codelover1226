@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="[https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100]"/>
-</p>
+
 - 👋 Hi, I’m @codelover1226
 - 👀 I’m interested in Python, Javascript, CSS, HTML
 - 🌱 I’m currently learning Kotlin
@@ -30,5 +28,5 @@ You can click the Preview link to take a look at your changes.
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=codelover1226&layout=compact&langs_count=8&card_width=320&theme=transparent" />
   </a>
 </p>
-
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 📫 Feel free to reach out if you want to collaborate or discuss anything!
